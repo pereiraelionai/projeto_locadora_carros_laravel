@@ -55,6 +55,7 @@
 </template>
 
 <script>
+    //teste para commit no git
     export default {
         props: ['csrf_token'], //igual ao data
         data() {
